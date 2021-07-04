@@ -1,0 +1,5 @@
+.draggable-item {
+  max-width: 100px;
+  cursor: move;
+  position: absolute;
+}
