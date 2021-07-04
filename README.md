@@ -2,4 +2,4 @@
 
 ## Description
 
-Dragging images around using vanilla JS, (link)[https://zdavidson.github.io/image-drag/].
+Dragging images around using vanilla JS, [link](https://zdavidson.github.io/image-drag/).
